@@ -1,0 +1,11 @@
+{
+	"Name": "VU-Hyper-Settings",
+	"Authors": ["keku645,PINK"],
+	"Description": "Pushes all Battlefield 3 graphic settings to the max",
+	"Version": "0.1.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true,
+	"Tags": [
+		"hyper-settings"
+	]
+}
